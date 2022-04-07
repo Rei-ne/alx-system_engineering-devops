@@ -1,7 +1,10 @@
-#Shell Variables Expansions
+# Shell Variables Expansions
 
 ## Projects
   * 0-alias
+    Create a script that creates an alias.
+    	   Name: ls
+	   Value: rm *
   * 1-hello_you
   * 2-path
   * 3-paths
